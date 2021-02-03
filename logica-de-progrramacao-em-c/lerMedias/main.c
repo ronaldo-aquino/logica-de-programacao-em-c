@@ -12,7 +12,7 @@ int main()
     scanf("%f", &valorB);
 
     media = (valorA + valorB) / 2;
-    printf("A media foi: %.2f \n", media);
+    printf("A media foi: %.2 f \n", media);
 
     return 0;
 }
