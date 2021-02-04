@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612477586 source:/home/ronaldo/Documents/logica-de-progrramacao-em-c/lerCaracteres/main.c
+	<stdio.h>
+	<stdlib.h>
+
