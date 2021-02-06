@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612576853 source:/home/ronaldo/Documents/logica-de-progrramacao-em-c/desvioCondicionalComposto/main.c
+	<stdio.h>
+	<stdlib.h>
+
