@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612739582 source:/home/ronaldo/Documents/logica-de-progrramacao-em-c/exerciciosDesvioCondicionalEncadeado/main.c
+	<stdio.h>
+	<stdlib.h>
+
