@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613003793 source:/home/ronaldo/Documents/logica-de-progrramacao-em-c/desvioCondicionalDeMultiplosCasos/main.c
+	<stdio.h>
+	<stdlib.h>
+
