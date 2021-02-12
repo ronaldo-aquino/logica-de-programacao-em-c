@@ -3,6 +3,14 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    int count;
+
+    count= 0;
+
+    while(count <= 10) {
+        printf("Número: %d \n", count);
+        count++;
+    }
+
     return 0;
 }
