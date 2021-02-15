@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613413847 source:/home/ronaldo/Documents/logica-de-progrramacao-em-c/operadorLogicoOU/main.c
+	<stdio.h>
+	<stdlib.h>
+
